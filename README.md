@@ -2,6 +2,10 @@
 
 This Spring Boot project demonstrates a simple application that reads existing CSV/XLS files from the project directory, writes them to an H2 database, and provides an endpoint to generate a PDF containing charts based on data stored in the database.
 
+## Sample Generated Report
+
+A sample generated report is included in this repository for your reference. You can find it in the `sample-reports` directory. This report serves as an example of what the application can produce when you access the chart PDF generation endpoint.
+
 ## Usage
 ### Generating PDF with Charts
 
