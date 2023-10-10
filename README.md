@@ -4,7 +4,7 @@ This Spring Boot project demonstrates a simple application that reads existing C
 
 ## Sample Generated Report
 
-A sample generated report is included in this repository for your reference. You can find it in the `sample-reports` directory. This report serves as an example of what the application can produce when you access the chart PDF generation endpoint.
+A sample generated report is included in this repository for your reference. This report serves as an example of what the application can produce when you access the chart PDF generation endpoint.
 
 ## Usage
 ### Generating PDF with Charts
